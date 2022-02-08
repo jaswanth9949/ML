@@ -28,12 +28,14 @@ Introduction:
 -For a proper cure, a proper diagnosis is also necessary.
 -Due to this major concern, we provide an automated system to robustly detect  diabetic maculopathy form the fundus images thereby providing a chance to save the vision of many people.
 
-data set:
+Data Set Considered:
+
 -The database consists of 89 colour fundus images of which 84 contain at least mild non-proliferative signs (Ma) of the diabetic maculopathy. 
 -The images were taken in the Kuopio university hospital.
 -The diabetic maculopathy abnormalities in the database are relatively small, but they appear near the macula which is considered to threaten the eyesight.
 
 Conclusion:
+
 -An image database, ground truth and evaluation methodology were proposed for evaluating and comparing methods for automatic detection of diabetic Maculopathy. 
 -All data, a baseline method and evaluation functionality (tool kit) are available .
 -The DIAERETDB1 provides a unified framework for benchmarking the methods. 
