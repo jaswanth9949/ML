@@ -1,4 +1,4 @@
-Diagnosis of Diabetic Maculopathy.
+Diagnosis of Diabetic Maculopathy.
 Abstract:
 
 -For a particularly long time, automatic diagnosis of diabetic maculopathy from digital fundus images has been an active research topic in the medical image processing community. 
